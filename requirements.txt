@@ -1,0 +1,5 @@
+pykafka==2.8.0
+opencv-python-headless==4.7.0.72
+greenlet==2.0.2
+imutils==0.5.4
+gevent==22.10.2

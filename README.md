@@ -1,5 +1,13 @@
 # detector
 video camera real time detection
 
-`` test ``
+## Install dependencies
+
+`` pip3 install -r requirements.txt ``
+
+## Run the program
+
+`` python3 app.py ``
+
+
 
